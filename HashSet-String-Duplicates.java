@@ -1,10 +1,3 @@
-package com.company;
-/*
- slide 16
- Create a Java function that return true if String has no duplicates using a Hash Set.
-*/
-
-
 import java.util.Collections;
 import java.util.HashSet;
 
